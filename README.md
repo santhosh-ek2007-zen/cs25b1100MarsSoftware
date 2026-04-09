@@ -28,7 +28,8 @@ To begin with, I have completed the Linux (Bash) section, and I’ve attached th
 
 ![image alt](https://github.com/santhosh-ek2007-zen/cs25b1100MarsSoftware/blob/c466c24f57c1de52f02c948de72cda0cb10fc323/light%20dose%201%20st%20part.jpeg)
 
-
+This is the second bashing task in easy dose 
 ![image alt](https://github.com/santhosh-ek2007-zen/cs25b1100MarsSoftware/blob/c466c24f57c1de52f02c948de72cda0cb10fc323/light%20dose%20bashing%202.jpeg)
 
 ![image alt](https://github.com/santhosh-ek2007-zen/cs25b1100MarsSoftware/blob/c466c24f57c1de52f02c948de72cda0cb10fc323/light%20dose%20final%20output.jpeg)
+I have learned and practiced all the commands from GeeksforGeeks, using it as a reference to guide my understanding
