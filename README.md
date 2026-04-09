@@ -34,10 +34,37 @@ This is the second bashing task in easy dose
 ![image alt](https://github.com/santhosh-ek2007-zen/cs25b1100MarsSoftware/blob/c466c24f57c1de52f02c948de72cda0cb10fc323/light%20dose%20final%20output.jpeg)
 I have learned and practiced all the commands from GeeksforGeeks, using it as a reference to guide my understanding
 
-Medium dose 1
+Medium dose 1:
+<br>
 solution: 
 1.Do the rotation about X , rotation about Y , rotation about Z should be done first 
 2.Take the object seen by the camera, rotate it into the rover’s orientation, then shift it to where the camera actually sits on the rover.
 3.Now take that same point, rotate it into the world’s orientation, then shift it to where the rover is in the world.
 
 ![image alt](https://i.sstatic.net/eAUMv.png)
+
+Medium dose 2:
+For this one i used dictionary concept and some python functions below you can find the morse code to english translation
+![image alt](https://study.com/cimages/multimages/16/362px-international_morse_code_-_letters.svg9047332447504003311.png)
+<br>
+Medium dose 3:
+NO explanation needed for this
+<br>
+Medium dose 4:
+<br>
+Muchiko filter smooths data but is sensitive to extreme spikes.
+Sanchiko filter effectively removes outliers but may lose smoothness.
+A hybrid approach—applying Sanchiko followed by Muchiko—provides the best result by first eliminating noise and then smoothing the signal.
+<br>
+Medium dose 5:
+![image alt](https://chatgpt.com/backend-api/estuary/content?id=file_0000000023e471fda88fa71d60f9c6ad&ts=493263&p=fs&cid=1&sig=5b1be2ba30dbf79fb7d293714b64f4ff381d50119cf046c35c9b9e551675b5b7&v=0)
+
+<br>
+
+Hard dose 1:
+1.Understand the map
+2.Mark obstacles
+3. Using breadth first search for shortest path calculation because Moves cost = same (1 step) , No diagonal movement
+,BFS = guaranteed shortest path .
+![image alt](https://media.geeksforgeeks.org/wp-content/uploads/20240216084522/bfs-vs-dfs-(1).png)
+<br>
