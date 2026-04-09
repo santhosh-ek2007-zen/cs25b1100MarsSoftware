@@ -33,3 +33,11 @@ This is the second bashing task in easy dose
 
 ![image alt](https://github.com/santhosh-ek2007-zen/cs25b1100MarsSoftware/blob/c466c24f57c1de52f02c948de72cda0cb10fc323/light%20dose%20final%20output.jpeg)
 I have learned and practiced all the commands from GeeksforGeeks, using it as a reference to guide my understanding
+
+Medium dose 1
+solution: 
+1.Do the rotation about X , rotation about Y , rotation about Z should be done first 
+2.Take the object seen by the camera, rotate it into the rover’s orientation, then shift it to where the camera actually sits on the rover.
+3.Now take that same point, rotate it into the world’s orientation, then shift it to where the rover is in the world.
+
+![image alt](https://i.sstatic.net/eAUMv.png)
