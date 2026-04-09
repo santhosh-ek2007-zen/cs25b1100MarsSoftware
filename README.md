@@ -57,7 +57,7 @@ Sanchiko filter effectively removes outliers but may lose smoothness.
 A hybrid approach—applying Sanchiko followed by Muchiko—provides the best result by first eliminating noise and then smoothing the signal.
 <br>
 Medium dose 5:
-![image alt](https://chatgpt.com/backend-api/estuary/content?id=file_0000000023e471fda88fa71d60f9c6ad&ts=493263&p=fs&cid=1&sig=5b1be2ba30dbf79fb7d293714b64f4ff381d50119cf046c35c9b9e551675b5b7&v=0)
+![image alt](https://github.com/santhosh-ek2007-zen/cs25b1100MarsSoftware/blob/d904c54bd0bb873f0bc39b6ce66847962876cca6/robotic%20arm%20medium%205.jpeg)
 
 <br>
 
@@ -68,3 +68,13 @@ Hard dose 1:
 ,BFS = guaranteed shortest path .
 ![image alt](https://media.geeksforgeeks.org/wp-content/uploads/20240216084522/bfs-vs-dfs-(1).png)
 <br>
+![image alt](https://github.com/santhosh-ek2007-zen/cs25b1100MarsSoftware/blob/d904c54bd0bb873f0bc39b6ce66847962876cca6/hard%20dose%201.jpeg)
+<br>
+![image alt](https://github.com/santhosh-ek2007-zen/cs25b1100MarsSoftware/blob/d904c54bd0bb873f0bc39b6ce66847962876cca6/hard%20dose%202.jpeg)
+<br>
+![image alt](https://github.com/santhosh-ek2007-zen/cs25b1100MarsSoftware/blob/d904c54bd0bb873f0bc39b6ce66847962876cca6/hard%20dose%203.jpeg)
+Overall, this experience strengthened my problem-solving approach and gave me a deeper appreciation for how real-world engineering problems are tackled step by step.
+
+I’m genuinely interested in contributing to Mars Club and continuing to build systems that are not just functional, but well thought out and reliable.
+<br>
+THANK YOU
