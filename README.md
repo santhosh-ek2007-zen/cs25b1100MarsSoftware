@@ -41,7 +41,7 @@ solution:
 2.Take the object seen by the camera, rotate it into the rover’s orientation, then shift it to where the camera actually sits on the rover.
 3.Now take that same point, rotate it into the world’s orientation, then shift it to where the rover is in the world.
 
-![image alt](https://i.sstatic.net/eAUMv.png)
+![image alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkOm2Vs8YxvEDDMNHS8vRNrdfavXSfcM4JuA&s)
 
 Medium dose 2:
 For this one i used dictionary concept and some python functions below you can find the morse code to english translation
